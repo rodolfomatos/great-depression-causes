@@ -3,7 +3,7 @@ ticket: T001
 title: Exhaustive cause-impact mapping of Great Depression causes
 sprint: sprint-01
 priority: high
-status: in-progress
+status: done
 created: 2026-09-22
 ---
 
